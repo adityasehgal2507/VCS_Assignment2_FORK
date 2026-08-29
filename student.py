@@ -1,4 +1,7 @@
 print("Student Management System")
 
 name="Inu Chetry"
-print("Name of the student:",name)
+print("Student name:",name)
+
+section="3B"
+print("Student section:",section)
